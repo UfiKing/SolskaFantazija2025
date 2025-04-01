@@ -46,5 +46,24 @@ Pozno zvečer prispete v vas in se čim hitreje odpravite v taverno. Nujno potre
 ![zemljevid vasi](lily_pole.png)
 
 Metla je bila ob casu kraje v shedu za borutovo hiso. Borut jih odpelje do sheda da si ogledajo kaj se je zgodilo. Shed stoji blizu ograde z ovcami, igralci lahko opazijo zelo ocitno hitro popravilo ograje, ki jo je posat podrla
-ce se odlocijo da pogledajo poblizje lahko opazijo umazano kri
+ce se odlocijo da pogledajo poblizje lahko opazijo razmazano kri ki je ostala se od ovac, in lahko tudi razberejo da so ovce malo poskodovale posast, vidijo lahko tudi majhen koscek koze in lahko prepoznajo da je koza abominationa
+**required checks**:
+- opazijo kri **any**
+- najdejo stopinje od monsterja **DC 10 perception/investigation**
+- opazijo kri od posasti **DC 12 perception/investigation** check
+- najdejo koscek koze **DC 16 perception/investigation** check
+- ugotovijo da je monster napol letel **DC 18 perception/investigation** check
+**"finding things out about monster" checks**:
+- ugotovijo da je abomination **DC 6 nature/ DC 7 history** check
+- ugotovijo da je ne letece bitje **DC 10 nature/histroy** check  
+- dobijo sketch creature **DC 20 nature/history** check
+
+Borut jih pelje tudi do sheda, tam lahko vidijo da je shed polomljen, na strani proti gozdu je luknja velika za priblizno en in pol large creature, notranjost je razdejana, polomljene police lezijo potleh. 
+Borut razlozi playerjem da je posast pojedla nekaj napojev in pojedla nekaj stvari, med drugim njegovo metlo.
+
+**eaten potions**:
+- potion
+- fill out
+
+
 
