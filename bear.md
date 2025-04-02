@@ -21,4 +21,14 @@ Actions
 ***Bite.*** *Melee Attack Roll* `+5`, reach 5 ft. *Hit* 7 `1d8 + 3` Piercing Damage
 ***Claw.*** *Melee Attack Roll* `+5`, reach 5 ft. *Hit* 5 `1d4 + 3` Slashing damae. If the target is a Large or smaller creature, it has the Prone condition.
 
-Legendary
+Legendary Actions
+---
+The bear can use these legenday actions after the sun sets
+When the sun sets, their eyes turn green and they gain 1 Legendary action point.
+Everytime the bear successfuly hits someone they refil their legendary meter by one
+when the legendary meter fills up to 3, it gains a legendary action point
+
+**Channel inner power bullshit**
+The bear channels its inner bullshit power, it gets a temporary shield that lasts for 2 rounds, and shields **d4 damage**
+
+
