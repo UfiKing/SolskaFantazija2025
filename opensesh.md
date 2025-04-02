@@ -47,12 +47,14 @@ Pozno zvečer prispete v vas in se čim hitreje odpravite v taverno. Nujno potre
 
 Metla je bila ob casu kraje v shedu za borutovo hiso. Borut jih odpelje do sheda da si ogledajo kaj se je zgodilo. Shed stoji blizu ograde z ovcami, igralci lahko opazijo zelo ocitno hitro popravilo ograje, ki jo je posat podrla
 ce se odlocijo da pogledajo poblizje lahko opazijo razmazano kri ki je ostala se od ovac, in lahko tudi razberejo da so ovce malo poskodovale posast, vidijo lahko tudi majhen koscek koze in lahko prepoznajo da je koza abominationa
+
 **required checks**:
 - opazijo kri **any**
 - najdejo stopinje od monsterja **DC 10 perception/investigation**
 - opazijo kri od posasti **DC 12 perception/investigation** check
 - najdejo koscek koze **DC 16 perception/investigation** check
 - ugotovijo da je monster napol letel **DC 18 perception/investigation** check
+
 **"finding things out about monster" checks**:
 - ugotovijo da je abomination **DC 6 nature/ DC 7 history** check
 - ugotovijo da je ne letece bitje **DC 10 nature/histroy** check  
@@ -92,4 +94,34 @@ Ura ko startajo je 11.30, sonce zaide okoli 18.00, ce slucajno zakljucijo chapte
 #### step 2
 
 After trekking for some time they arrive at a river, the river is about 2m deep (6ft) and 10m in lenght (32 ft in lenght)
-the players are now presented with a challange, how to 
+the players are now presented with a challange, how to cross the river, Here i mostly want to hear their ideas, if they find something creative (not just, lets go over the river or go around) they can do it without much complication
+
+they can also **cross the river** or **go around the river**
+
+##### crossing the river
+crossing the river is quite dangerous, so they will have to be carefull, if they attempt to cross the river as is, it will be hard
+If they try to forcefully cross the river, bojo mogl metat check
+fuknjejo **Atheltics ali Acrobatics** check, ce so proficient v **survival lahko dodajo proficiency bonus**
+
+**checks**:
+- 00-10: you are basically fucked, odplahne te dol, suffers **d4 dammage**
+- 11-17: rata se ti prebit ampak sufferas **d4 damage**
+- 18+: rata ti cez pridt
+
+##### gremo okol
+zdej lahko se gre naokol tuki nocem prevec punishat folk, tko da lahko grejo okol, in rabjo en navigation check vrzt
+
+**Nature/Survival check**
+- 00-05: 1h 30min lutanja
+- 06-10: 1h lutanja
+- 11-17: 30min lutanja
+- 18+: 15min lutanja
+
+pol pridejo do bridga
+
+## Chapter 3, fight on the bridge/near the bridge
+En fight z medoti bo, lahko so pri bridgu ali mal naprej.
+
+Ce je 
+
+
