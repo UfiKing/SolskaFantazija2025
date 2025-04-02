@@ -65,5 +65,31 @@ Borut razlozi playerjem da je posast pojedla nekaj napojev in pojedla nekaj stva
 - potion
 - fill out
 
+Playerji imajo nato dve možnosti, sledijo stopinjam ki so jih najdli pri ovcah, ali pa sledijo v gozd iz kje je prisel posast
 
+They can also ask the old man for help to get through the forest, the man is reluctant at first, they must throw a **persuasion check**
+**persuasion check**:
+- 0-8: he "dosent know" anything
+- 9-16: they get a d4 for all checks for navigating the forest
+- 17-23, thez get a permanent 4 to checks navigating the forest
+- 24+: they get a map, skip the first step down below, take 1h to get to a bridge and cross the river 
+he can give them some advice, the advice gives them an extra **d4** for all checks to navigate thru the forest
 
+## Chapter 2 trekking through the forest
+
+### Option 1, sledenje poti iz kjer je prisla posast
+#### step 1
+
+Playerji sledijo poti iz kjer je prisla posast, takoj vrzejo **Nature** Ali **Survival** check
+Ura ko startajo je 11.30, sonce zaide okoli 18.00, ce slucajno zakljucijo chapter 2, option 1, po 17.00 uri je moznostz da jih bojo pol napadli mocnejsi medoti (to tega bom pol prsu)
+
+**Nature/Survival checks**:
+- 0-5: They are completely lost, they wander for 2h 30min, after this they must repeat this step
+- 6-10: They are somewhat lost, they wander for 2h and go on the next step
+- 11-16: They trekk for 60min to the next step
+- 17-19: they get to the next step in 30min
+
+#### step 2
+
+After trekking for some time they arrive at a river, the river is about 2m deep (6ft) and 10m in lenght (32 ft in lenght)
+the players are now presented with a challange, how to 
