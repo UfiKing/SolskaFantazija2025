@@ -121,7 +121,15 @@ pol pridejo do bridga
 
 ## Chapter 3, fight on the bridge/near the bridge
 En fight z medoti bo, lahko so pri bridgu ali mal naprej.
+Ambushal jih bojo 3 medoti
+pol se fajtajo in je plan da long restajo
 
-Ce je 
+
+## chapter 4 boss fight
+torej plan je da oni 
+
+
+
+
 
 
