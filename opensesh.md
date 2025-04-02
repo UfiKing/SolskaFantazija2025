@@ -98,7 +98,7 @@ the players are now presented with a challange, how to cross the river, Here i m
 
 they can also **cross the river** or **go around the river**
 
-##### crossing the river
+**crossing the river**
 crossing the river is quite dangerous, so they will have to be carefull, if they attempt to cross the river as is, it will be hard
 If they try to forcefully cross the river, bojo mogl metat check
 fuknjejo **Atheltics ali Acrobatics** check, ce so proficient v **survival lahko dodajo proficiency bonus**
@@ -108,7 +108,7 @@ fuknjejo **Atheltics ali Acrobatics** check, ce so proficient v **survival lahko
 - 11-17: rata se ti prebit ampak sufferas **d4 damage**
 - 18+: rata ti cez pridt
 
-##### gremo okol
+**gremo okol**
 zdej lahko se gre naokol tuki nocem prevec punishat folk, tko da lahko grejo okol, in rabjo en navigation check vrzt
 
 **Nature/Survival check**
